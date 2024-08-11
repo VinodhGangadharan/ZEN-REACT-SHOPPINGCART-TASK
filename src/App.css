@@ -1,0 +1,29 @@
+#id
+{
+  color: black;
+}
+.card-img-top
+{
+  height: 240px;
+}
+header{
+  background-image: url("https://img.freepik.com/free-vector/abstract-black-texture-background-hexagon_206725-413.jpg");
+}
+section
+{
+  background-color: black;
+  
+}
+.card-body
+{
+  background-color: rgb(89, 89, 248);
+  color:white
+}
+
+.card-footer
+{
+  background-color:rgb(89, 89, 248);
+  color:white
+}
+
+
