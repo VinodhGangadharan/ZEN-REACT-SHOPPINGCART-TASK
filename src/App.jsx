@@ -48,7 +48,7 @@ function App() {
                         </li>
                     </ul>
                     <form className="d-flex">
-                        <button id="cart" className="btn btn-outline-dark" type="submit">
+                        <button id="cart" className="btn btn-outline-dark" type="button">
                             <i className="bi-cart-fill me-1"></i>
                             Cart
                             <span className="badge bg-dark text-white ms-1 rounded-pill">{count}</span>
@@ -78,14 +78,14 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">boAt Rockerz 255 Pro+</h5>
+                                    <h6 className="fw-bolder">boAt Rockerz 255 Pro+</h6>
                                      {/*<!-- Product reviews-->*/}
                                      <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
-                                        <div className="bi-star-fill"></div>
+                                       
                                     </div>
                                     {/*<!-- Product price-->*/}
                                     ₹1249.00 - ₹1600.00
@@ -107,7 +107,7 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">Samsung Galaxy A55</h5>
+                                    <h6 className="fw-bolder">Samsung Galaxy A55</h6>
                                     {/*<!-- Product reviews-->*/}
                                     <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
@@ -137,14 +137,14 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">realme Buds 2</h5>
+                                    <h6 className="fw-bolder">realme Buds 2</h6>
                                      {/*<!-- Product reviews-->*/}
                                      <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
-                                        <div className="bi-star-fill"></div>
+                                       
                                     </div>
                                     {/*<!-- Product price-->*/}
                                     <span className="text-muted text-decoration-line-through">₹598.00</span>
@@ -165,7 +165,7 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">Skullcandy Jib</h5>
+                                    <h6 className="fw-bolder">Skullcandy Jib</h6>
                                     {/*<!-- Product reviews-->*/}
                                     <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
@@ -194,14 +194,13 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">OnePlus Nord E103A</h5>
+                                    <h6 className="fw-bolder">OnePlus Nord E103A</h6>
                                      {/*<!-- Product reviews-->*/}
                                      <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
-                                        <div className="bi-star-fill"></div>
-                                        <div className="bi-star-fill"></div>
+                                        
                                     </div>
                                     {/*<!-- Product price-->*/}
                                     <span className="text-muted text-decoration-line-through">₹799.00  </span>
@@ -222,7 +221,7 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">Sony MDR-EX155AP</h5>
+                                    <h6 className="fw-bolder">Sony MDR-EX155AP</h6>
                                      {/*<!-- Product reviews-->*/}
                                      <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
@@ -251,14 +250,14 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">Samsung EHS64</h5>
+                                    <h6 className="fw-bolder">Samsung EHS64</h6>
                                     {/*<!-- Product reviews-->*/}
                                     <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
                                         <div className="bi-star-fill"></div>
-                                        <div className="bi-star-fill"></div>
+                                      
                                     </div>
                                     {/*<!-- Product price-->*/}
                                     <span className="text-muted text-decoration-line-through">₹500.00</span>
@@ -279,7 +278,7 @@ function App() {
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     {/*<!-- Product name-->*/}
-                                    <h5 className="fw-bolder">boAt Bassheads 242</h5>
+                                    <h6 className="fw-bolder">boAt Bassheads 242</h6>
                                     {/*<!-- Product reviews-->*/}
                                     <div className="d-flex justify-content-center small text-warning mb-2">
                                         <div className="bi-star-fill"></div>
